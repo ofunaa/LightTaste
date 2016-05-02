@@ -33,13 +33,15 @@
 
 #### offset
 
+`<div class="offset_by_ten"></div>`
+
 ```html
 <!-- offset10 -->
-<div class="ten grid sample_block offset_by_ten"></div>
+<div class="offset_by_ten"></div>
 <!-- offset20 -->
-<div class="ten grid sample_block offset_by_twenty"></div>
+<div class="offset_by_twenty"></div>
 <!-- offset30 -->
-<div class="ten grid sample_block offset_by_thirty"></div>
+<div class="offset_by_thirty"></div>
 
 ```
 
