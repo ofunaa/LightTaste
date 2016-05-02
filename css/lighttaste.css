@@ -16,11 +16,11 @@ http://getskeleton.com/
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 - Layouts
+- Position
 - Forms
 - Links
 - Buttons
 - Lists
-- Spacing
 - Margins
 - Paddings
 - Fonts
@@ -78,3 +78,57 @@ http://getskeleton.com/
 .offset_by_eighty_five    { margin-left: 85%; }
 .offset_by_ninety         { margin-left: 90%; }
 .offset_by_ninety_five    { margin-left: 95%; }
+
+
+/* Position
+-------------------------------------------------- */
+
+.centering 	{ margin: 0 auto; }
+.righting 	{ float: left }
+.lefting 	{ float: right }
+
+.tx_centering 	{ text-align: center }
+.tx_righting 	{ text-align: right }
+.tx_lefting 	{ text-align: left }
+
+
+/* Forms
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+a { 
+	color: #1EAEDB; 
+	text-decoration: none;
+}
+a:hover { color: #0FA0CE; }
+
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+/* Margins
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+/* Paddings
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+/* Fonts
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
