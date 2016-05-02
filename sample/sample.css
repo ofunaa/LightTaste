@@ -2,6 +2,7 @@
 	background-color: rgba(163, 209, 255, 0.5); 
 	height: 25px; 
 	line-height: 25px;
+	border-radius: 5px;
 }
 .right_block {
 	background-color: rgba(255, 204, 204, 0.5); 
