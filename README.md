@@ -2,7 +2,7 @@
 
 ## LightTaste.css is the most Light taste CSS Frameworks
 
-We aim to CSS framework that can be seasoned with your favorite
+LightTaste.css aim to CSS framework that can be seasoned with your favorite
 
 お好みで味付け出来るCSSフレームワークを目指しています。
 
