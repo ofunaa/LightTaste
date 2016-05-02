@@ -10,9 +10,7 @@ LightTaste.css aim to CSS framework that can be seasoned with your favorite
 
 #### basic
 
-example
-
-`<div class="ten grid"></div>`
+*example*`<div class="ten grid"></div>`
 
 ```html
 <!-- 10:90 -->
@@ -37,9 +35,7 @@ example
 
 #### offset
 
-example
-
-`<div class="offset_by_ten"></div>`
+*example* `<div class="offset_by_ten"></div>`
 
 ```html
 <!-- offset10 -->
