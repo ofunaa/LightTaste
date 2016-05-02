@@ -1,8 +1,10 @@
 # LightTaste
 
-## LightTaste.css（うす味.css）は、超うす味cssです。
+## LightTaste.css is the most Light taste CSS Frameworks
 
-うすーくうすーく味をつける事でWEBサービス作りを簡単にすると共に、お好みで味付け出来るCSSフレームワークを目指しています。
+We aim to CSS framework that can be seasoned with your favorite
+
+お好みで味付け出来るCSSフレームワークを目指しています。
 
 ### grid systems
 
