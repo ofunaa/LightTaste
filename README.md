@@ -13,20 +13,20 @@
 ```html
 <!-- 10:90 -->
 <div class="grid_start mb_15">
-<div class="ten grid">10%</div>
-<div class="ninety grid grid_block">90%</div>
+	<div class="ten grid">10%</div>
+	<div class="ninety grid grid_block">90%</div>
 </div>
 
 <!-- 20:80 -->
 <div class="grid_start mb_15">
-<div class="twenty grid">20%</div>
-<div class="eighty grid grid_block">80%</div>
+	<div class="twenty grid">20%</div>
+	<div class="eighty grid grid_block">80%</div>
 </div>
 
 <!-- 30:70 -->
 <div class="grid_start mb_15">
-<div class="thirty grid">30%</div>
-<div class="seventy grid grid_block">70%</div>
+	<div class="thirty grid">30%</div>
+	<div class="seventy grid grid_block">70%</div>
 </div>
 
 ```
