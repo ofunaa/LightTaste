@@ -7,9 +7,9 @@
 
 ## special thanks
 
-Skeleton V2.0.4（http://getskeleton.com/）
-Copyright 2014, Dave Gamache
-www.getskeleton.com
-Free to use under the MIT license.
-http://www.opensource.org/licenses/mit-license.php
+Skeleton V2.0.4  
+Copyright 2014, Dave Gamache  
+www.getskeleton.com  
+Free to use under the MIT license.  
+http://www.opensource.org/licenses/mit-license.php  
 12/29/2014
