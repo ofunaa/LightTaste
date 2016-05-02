@@ -1,0 +1,80 @@
+/*
+* LightTaste V1.0.0
+* Copyright 2016, Takuji Funao
+* https://github.com/maru-3/LightTaste
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 05/02/2016
+*/
+
+/*
+I have respect Skeleton.css
+http://getskeleton.com/
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Layouts
+- Forms
+- Links
+- Buttons
+- Lists
+- Spacing
+- Margins
+- Paddings
+- Fonts
+*/
+
+
+/* Layouts
+-------------------------------------------------- */
+
+.grid_start {
+  width: 100%;
+  float: left;
+}
+
+.grid, .five {
+  width: 100%;
+  float: left;
+}
+
+.ten.grid           { width: 10%; }
+.ten.five.grid      { width: 15%; }
+.twenty.grid        { width: 20%; }
+.twenty.five.grid   { width: 25%; }
+.thirty.grid        { width: 30%; }
+.thirty.five.grid   { width: 35%; }
+.fourty.grid        { width: 40%; }
+.fourty.five.grid   { width: 45%; }
+.fifty.grid         { width: 50%; }
+.fifty.five.grid    { width: 55%; }
+.sixty.grid         { width: 60%; }
+.sixty.five.grid    { width: 65%; }
+.seventy.grid       { width: 70%; }
+.seventy.five.grid  { width: 75%; }
+.eighty.grid        { width: 80%; }
+.eighty.five.grid   { width: 85%; }
+.ninety.grid        { width: 90%; }
+.ninety.five.grid   { width: 95%; }
+.full.grid          { width: 100%; }
+
+.offset_by_ten            { margin-left: 10%; }
+.offset_by_ten_five       { margin-left: 15%; }
+.offset_by_twenty         { margin-left: 20%; }
+.offset_by_twenty_five    { margin-left: 25%; }
+.offset_by_thirty         { margin-left: 30%; }
+.offset_by_thirty_five    { margin-left: 35%; }
+.offset_by_fourty         { margin-left: 40%; }
+.offset_by_fourty_five    { margin-left: 45%; }
+.offset_by_fifty          { margin-left: 50%; }
+.offset_by_fifty_five     { margin-left: 55%; }
+.offset_by_sixty          { margin-left: 60%; }
+.offset_by_sixty_five     { margin-left: 65%; }
+.offset_by_seventy        { margin-left: 70%; }
+.offset_by_seventy_five   { margin-left: 75%; }
+.offset_by_eighty         { margin-left: 80%; }
+.offset_by_eighty_five    { margin-left: 85%; }
+.offset_by_ninety         { margin-left: 90%; }
+.offset_by_ninety_five    { margin-left: 95%; }
